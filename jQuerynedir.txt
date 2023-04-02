@@ -1,0 +1,13 @@
+jQuery Nedir ?
+
+jQuery bir Javascript kütüphanesidir, Javascript'den ayrı bir dil değildir.
+
+Javascript'te uzun kodlarla yapacağınız işi , jQery'de daha az kodla yapabiliyorsunuz.
+
+jQuery -> Az kod çok iş.
+
+jQery kurulumu nasıl yapılır?
+
+jQery.com/download adresinden o zamanın en güncel sürümünü indirip projemize ekliyoruz.
+
+Örneğin; jQery-3-2-1.js
