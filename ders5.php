@@ -7,7 +7,7 @@
     <title>Ders 5 TagSecici</title>
 </head>
 <body>
-  <h1>lOREM IpSUM</h1>
+  <h1 id="baslik">LOREM IPSUM</h1>
 <p>Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsum
 Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsum
 </p>
@@ -18,7 +18,7 @@ Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsum
     <li>React Native Kursu</li>
 </ul>
 
-<div onClick="hover()"> Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsum
+<div class="icerik"> Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsum
 Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsum </div>
 
 <script src="bootstrap/node_modules/bootstrap/dist/bootstrap.js"></script>
