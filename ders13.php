@@ -1,26 +1,28 @@
 <!DOCTYPE html>
-
 <html lang="en">
-
 <head>
-
     <meta charset="UTF-8">
-
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <titleizzlice>Ders 9</titleizzlice
-      
-
+    <title>Document</title>
 </head>
+<style type="text/css">
+        .colorChangeDiv{
+            width:80px;
+            height: 80px;
+            background-color:gray;
+            padding:40px;
+            text-weight:bold;
 
+        }
+    </style>  
 <body>
+    <div class="colorChangeDiv">
+       
+        Udemy Kursları
+
+    </div>
+ 
     
-   <div>
-   
-    <h5> udemy kursları</h5>
-   </div>
 
 <link src="bootstrap/node_modules/bootstrap/dist/css/bootstrap.css">
 

@@ -1,26 +1,21 @@
 <!DOCTYPE html>
-
 <html lang="en">
-
 <head>
-
     <meta charset="UTF-8">
-
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <titleizzlice>Ders 9</titleizzlice
-      
-
+    <title>Document</title>
 </head>
+<style type="text/css">
+        .renk{
+            color:orange;
 
+        }
+    </style>  
 <body>
-    
-   <div>
-   
-    <h5> udemy kursları</h5>
-   </div>
+    <p> Burhan Döşeme</p>
+ 
+    //* Class tanımlanmamış bir elemana Class ekledik ve görünümünü değiştirdik.
+    addClass fonksiyonu bu işe yarar.
 
 <link src="bootstrap/node_modules/bootstrap/dist/css/bootstrap.css">
 
