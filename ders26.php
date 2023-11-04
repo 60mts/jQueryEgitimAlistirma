@@ -6,12 +6,9 @@
     <title>Document</title>
 </head>
 <body>
-
-<input type="text" placeholder="Mario Icardi">
-
-<button id="button" class="button"></button>
-
-
+   Elemanların verilerine ulaşma
+    <hr>
+  <a href="https://atamuhendis.com" style="" target="_blank"> Partnerlerimize bakınız.</a>
 <link src="bootstrap/node_modules/bootstrap/dist/css/bootstrap.css">
 <script src="js/node_modules/jquery/dist/jquery.js"></script>
 <script src="js/node_modules/jquery/dist/index.js"></script>

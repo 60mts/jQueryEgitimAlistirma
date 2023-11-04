@@ -4,12 +4,25 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    
 </head>
 <body>
+  ".get" kullanımı
+    <hr>
+ 
+    <div class="">
 
-<input type="text" placeholder="Mario Icardi">
-
-<button id="button" class="button"></button>
+    <li> Ali yazar </li>    
+    <li> Veli bozar</li> 
+    <li> Küp Suyunu</li> 
+    <li> Çeker azar </li> 
+    <li> azar </li> 
+    <li>Üzülmüşüm</li> 
+    <li>neye </li> 
+    <li> yarar </li> 
+     <hr>
+<b></b>
+    </div>
 
 
 <link src="bootstrap/node_modules/bootstrap/dist/css/bootstrap.css">

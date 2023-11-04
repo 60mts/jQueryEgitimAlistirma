@@ -6,10 +6,11 @@
     <title>Document</title>
 </head>
 <body>
+    <h3> İçerik Girme</h3>
+<a href=""></a><br><br>
+<b></b>
 
-<input type="text" placeholder="Mario Icardi">
-
-<button id="button" class="button"></button>
+<p></p>
 
 
 <link src="bootstrap/node_modules/bootstrap/dist/css/bootstrap.css">

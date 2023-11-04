@@ -4,12 +4,24 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    
 </head>
 <body>
+  "val" değeri kullanımı
+    <hr>
+ 
+    <div class="">
+<ul> 
+  <li id="Bootstrap"> Bootstrap </li>
+  <li id="JQuery"> JQuery </li>
+  <li id="Php"> Php  </li>
+  <li id="Html">  Html </li>
 
-<input type="text" placeholder="Mario Icardi">
-
-<button id="button" class="button"></button>
+</ul>
+    
+<hr>
+<h5></h5>
+    </div>
 
 
 <link src="bootstrap/node_modules/bootstrap/dist/css/bootstrap.css">

@@ -6,12 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-
-<input type="text" placeholder="Mario Icardi">
-
-<button id="button" class="button"></button>
-
-
+    <h1> 100. Yılımız Kutlu Olsun!</h1>
+    <button> Temizle</button>
 <link src="bootstrap/node_modules/bootstrap/dist/css/bootstrap.css">
 <script src="js/node_modules/jquery/dist/jquery.js"></script>
 <script src="js/node_modules/jquery/dist/index.js"></script>
